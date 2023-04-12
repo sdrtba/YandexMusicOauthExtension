@@ -1,4 +1,4 @@
-# Расширение для получения Oauth токена Яндекс.Музыки
+# Extension to get Yandex.Music Oauth
 
 - set the token with the corresponding button.
 - then copy
