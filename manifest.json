@@ -1,0 +1,30 @@
+{
+    "name":"Получение Oauth токена Яндекс.Музыка",
+    "description": "sdrtba",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": {
+          "16": "ico/logo.png",
+          "32": "ico/logo.png",
+          "48": "ico/logo.png",
+          "128":"ico/logo.png"
+        }
+      },
+      "icons": {
+        "16": "ico/logo.png",
+        "32": "ico/logo.png",
+        "48": "ico/logo.png",
+        "128":"ico/logo.png"
+      },
+      "permissions": [
+        "activeTab",
+        "scripting",
+        "tabs",
+        "storage"
+     ]
+}
