@@ -1,4 +1,4 @@
-# Extension to get Yandex.Music Oauth
+# Extension to get Yandex.Music Oauth token
 
 - set the token with the corresponding button.
 - then copy
