@@ -4,4 +4,4 @@
 - then copy
 - You can also remove the token from the local storage. I don't know why you would want to do that.
 
-![alt](https://github.com/sdrtba/YandexMusicOauthExtension/blob/main/res/view.jpg)
+![view](https://github.com/sdrtba/YandexMusicOauthExtension/assets/64638190/d6a8210f-a98c-41c8-bed0-0ef72b5322df)
